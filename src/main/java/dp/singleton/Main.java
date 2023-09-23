@@ -1,4 +1,4 @@
-package dp;
+package dp.singleton;
 
 import dp.singleton.DBConnection;
 import dp.singleton.DBConnectionSingleton;
